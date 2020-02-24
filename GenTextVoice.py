@@ -11,7 +11,7 @@ ARTICLE_PATH = 'Articles'
 SAVE_VOICE_PATH = 'Voice'
 VOICE_TYPE = 'mp3'
 
-START_ID = '4937153'
+START_ID = '-1'
 
 def getSpeechObj(AppID=APPID, APIKey=APIKEY, SecretKey=SECRETKEY):
     speecher = AipSpeech(AppID, APIKey, SecretKey)
