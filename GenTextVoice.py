@@ -3,9 +3,9 @@ import os
 import re
 
 
-APPID = '18552872'
-APIKEY = '0160s9ixQ4FBWoUS8yMGkbyd'
-SECRETKEY = '1OmfnyzwQGmkRt5hIpXzv0eN3fnK9qiN'
+APPID = '×××'
+APIKEY = '×××'
+SECRETKEY = '×××'
 
 ARTICLE_PATH = 'Articles'
 SAVE_VOICE_PATH = 'Voice'
